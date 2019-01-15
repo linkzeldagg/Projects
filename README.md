@@ -66,15 +66,15 @@
 * Dynamically generated meshes using GPU computing
 * LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
 
-Dynamic chunks and LOD:
+Dynamic chunks and LOD:  
 ![Dynamic Chunks](Images/DChunk.gif)
 ![LOD Loading](Images/LOD.gif)
 
-Rendering some scene:
+Rendering some scene:  
 ![HillIsland](Images/HillIsland_2.png)
 ![Mesas](Images/Mesas2.png)
 
-With LOD levels:
+With LOD levels:  
 ![LOD_HillIsland](Images/LOD_2.png)
 ![LOD_Rendered](Images/LOD_2_Color.png)
 

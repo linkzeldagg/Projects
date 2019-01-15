@@ -1,6 +1,6 @@
 # Projects
 
-## Listed
+### Games or related
 
 **2015.11, Dynamic detail population for massive scene rendering.** Ogre / C++
 * Done in a hackathon (within 48 hours)  
@@ -30,10 +30,6 @@
 ![Static PNG](Images/SlimeKingdom1.png)
 ![Static PNG](Images/SlimeKingdom2.png)
 ![Static PNG](Images/SlimeKingdom3.jpg)
-
-## Not Listed
-
-### Games or related
 
 **2011, 2013 ~ 2014, 2014 ~ 2016 Minecraft-liked Game.** Ogre / C++
 * A voxel-based game (like minecraft)

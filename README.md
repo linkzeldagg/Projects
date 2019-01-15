@@ -17,7 +17,7 @@
 
 ![Static PNG](Images/Kokoronomori.png)  
 ![Animated](Images/Kokoronomori.gif)  
-[Poster](Images/Poster.pdf)
+[Poster](Images/poster.pdf)
 
 **2018, SlimeKingdom.** Unity (in progress)
 * An indie fantastic 3D RPG game

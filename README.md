@@ -79,8 +79,11 @@ With LOD levels:
 ![LOD_Rendered](Images/LOD_2_Color.png)
 
 **2018, miniRAID.** WebGL (melon.js)
-* a web 2D RPG game, in progress. 
+* a MMORPG liked single player web 2D RPG game, in progress. 
 * modified low-level rendering logic of melon.js.
+* https://fairy-neko.github.io/miniRAID/
+
+![miniRAID](Images/miniRAID.png)
 
 **2015 ~ 2018, Gatcha simulators** Adobe Flash / Unity
 * Simulates the visual effect of Gatcha in popular mobile games

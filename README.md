@@ -81,6 +81,7 @@ With LOD levels:
 **2018, miniRAID.** WebGL (melon.js)
 * a MMORPG liked single player web 2D RPG game, in progress. 
 * modified low-level rendering logic of melon.js.
+* Collaborated with my friends
 * https://fairy-neko.github.io/miniRAID/
 
 ![miniRAID](Images/miniRAID.png)

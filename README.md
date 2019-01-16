@@ -6,6 +6,7 @@
 * Done in a hackathon (within 48 hours)  
 * It's a massive LOD system, populates millions of procedural details based on current view. Can be easily modified by artists.  
 * In the demo, I showed a grassland, free from bird-view to a close view that shows "cell"s on a single grass-blade.
+* minFPS = 15 @ i7-4700MQ / GTX 780M (only in specific area (a small range at middle), in other range FPS = 60 (VSync))
 * I entered MSRA by this.
 
 ![Static PNG](Images/DynamicLOD.png)
@@ -36,7 +37,8 @@
 **2017.11, Voxel engine for massive scene with LOD.** OpenGL
 
 * Dynamically generated meshes computed by GPU
-* LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
+* LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)  
+* High performance (w/ camera movement FPS > VSync @ GTX 1060), if ignore hard-disk I/O (when reading a pre-defined map file)
 * https://github.com/linkzeldagg/GLPlayground/tree/master/CS_VoxelDrawer
 
 Dynamic chunks and LOD:  

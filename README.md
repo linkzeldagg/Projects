@@ -64,7 +64,7 @@ With LOD levels:
 * My first attempt to Unity
 * A Mobile game, a ball will bounce when hitting user drawn lines.
 * Control the ball hit bouns items, or it will die after several bounces.
-* Special item makes splitting a ball to two balls.
+* Special item splits a ball into two balls.
 
 **2016.7, Vulkan rendering framework.** Vulkan / C++
 * I made this for learning Vulkan (a new Graphics API).
@@ -72,7 +72,6 @@ With LOD levels:
 * https://github.com/linkzeldagg/vulkanVoxelTest
 
 **2017, "User define" magical spell generator.** Unity
-
 * User can enter a custom string (sort of program) to create custom spells
 
 ![Magica](Images/CustomMagica.png)
@@ -81,7 +80,7 @@ With LOD levels:
 * a MMORPG liked single player web 2D RPG game, in progress. 
 * modified low-level rendering logic of melon.js.
 * Collaborated with my friends
-* https://fairy-neko.github.io/miniRAID/
+* https://fairy-neko.github.io/miniRAID/ [Repo](https://github.com/Fairy-Neko/miniRAID)
 
 ![miniRAID](Images/miniRAID.png)
 
@@ -113,5 +112,5 @@ Reconstructed scene:
 * https://github.com/linkzeldagg/Pokemon-Showdown-Win-Rate-Prediction
 
 **2018, Machine Learning Miscellaneous** Python / tensorflow
-* So many...
+* So many... (including GANs family, AutoEncoders, 2D & 3D CNNs, different algorithms (e.g. Spectral regularization) etc.)
 * Done in my lab at Tokyo Tech.

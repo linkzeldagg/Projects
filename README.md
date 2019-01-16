@@ -35,7 +35,7 @@
 
 **2017.11, Voxel engine for massive scene with LOD.** OpenGL
 
-* Dynamically generated meshes using GPU computing
+* Dynamically generated meshes computed by GPU
 * LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
 * https://github.com/linkzeldagg/GLPlayground/tree/master/CS_VoxelDrawer
 

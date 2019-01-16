@@ -19,17 +19,37 @@
 ![Animated](Images/Kokoronomori.gif)  
 [Poster](Images/poster.pdf)
 
-**2018, SlimeKingdom.** Unity (in progress)
+**2017 ~ 2018, SlimeKingdom.** Unity (in progress)
 * An indie fantastic 3D RPG game
 * Terrain and graphics
+* Contributed with friends (Mainly by myself)
 * *Disclaimer: Assets bought from asset store*
     * Houses and assets in the village
     * Texture for grass and flower
     * Giant glowing plants and mushrooms
+    * Aura, an open-source plugin for rendering volume scattering fx [Link](https://assetstore.unity.com/packages/vfx/shaders/aura-volumetric-lighting-111664)
 
 ![Static PNG](Images/SlimeKingdom1.png)
 ![Static PNG](Images/SlimeKingdom2.png)
 ![Static PNG](Images/SlimeKingdom3.jpg)
+
+**2017.11, Voxel engine for massive scene with LOD.** OpenGL
+
+* Dynamically generated meshes using GPU computing
+* LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
+* https://github.com/linkzeldagg/GLPlayground/tree/master/CS_VoxelDrawer
+
+Dynamic chunks and LOD:  
+![Dynamic Chunks](Images/DChunk.gif)
+![LOD Loading](Images/LOD.gif)
+
+Rendering some scene:  
+![HillIsland](Images/HillIsland_2.png)
+![Mesas](Images/Mesas2.png)
+
+With LOD levels:  
+![LOD_HillIsland](Images/LOD_2.png)
+![LOD_Rendered](Images/LOD_2_Color.png)
 
 **2011, 2013 ~ 2014, 2014 ~ 2016 Minecraft-liked Game.** Ogre / C++
 * A voxel-based game (like minecraft)
@@ -56,24 +76,6 @@
 * User can enter a custom string (sort of program) to create custom spells
 
 ![Magica](Images/CustomMagica.png)
-
-**2017.11, Voxel engine for massive scene with LOD.** OpenGL
-
-* Dynamically generated meshes using GPU computing
-* LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
-* https://github.com/linkzeldagg/GLPlayground/tree/master/CS_VoxelDrawer
-
-Dynamic chunks and LOD:  
-![Dynamic Chunks](Images/DChunk.gif)
-![LOD Loading](Images/LOD.gif)
-
-Rendering some scene:  
-![HillIsland](Images/HillIsland_2.png)
-![Mesas](Images/Mesas2.png)
-
-With LOD levels:  
-![LOD_HillIsland](Images/LOD_2.png)
-![LOD_Rendered](Images/LOD_2_Color.png)
 
 **2018, miniRAID.** WebGL (melon.js)
 * a MMORPG liked single player web 2D RPG game, in progress. 

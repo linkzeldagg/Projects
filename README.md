@@ -61,6 +61,7 @@
 
 * Dynamically generated meshes using GPU computing
 * LOD makes rendering distance further (around 5km^2, 1m = 1voxel, without noticeable lagging, chunk data changes every frame)
+* https://github.com/linkzeldagg/GLPlayground/tree/master/CS_VoxelDrawer
 
 Dynamic chunks and LOD:  
 ![Dynamic Chunks](Images/DChunk.gif)

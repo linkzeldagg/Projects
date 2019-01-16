@@ -1,6 +1,6 @@
 # Projects
 
-### Games or related
+### Graphics and Games
 
 **2015.11, Dynamic detail population for massive scene rendering.** Ogre / C++
 * Done in a hackathon (within 48 hours)  

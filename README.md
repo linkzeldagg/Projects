@@ -18,7 +18,11 @@
 * Works done in Konagaya Lab (my academic supervisor, master degree) at TokyoTech.
 * Mainly focusing on generative neural networks (GANs, VAEs, etc.)
 * Learning common technique & tricks used in neural networks.
-* My research: Find well-behaved, linear representations of motion dynamics (particle simulation data). It should be able to simulate (also predict) the process by some linear (affine) transformation in the latent, representation space, and be able to encode raw particle data (some matrix with arbitrary rows) to latent representations, as well as reconstruct them back to raw data. We also used the duality of simulation process (forward & backward in time <-> linear transformation & the inverse) to improve model stability.
+* My research (currently in mid-stage): 
+  * Find well-behaved, linear representations of motion dynamics (particle simulation data). 
+  * Simulate (also predict) the process by some linear (affine) transformation in the latent space
+  * Able to encode raw particle data (some matrix with arbitrary rows) to latent representations, as well as reconstruct them back to raw data. 
+  * Using the duality of simulation process (forward & backward in time <-> linear transformation & the inverse) to improve model stability.
 
 ### Graphics and Games
 

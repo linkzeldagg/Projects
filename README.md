@@ -1,5 +1,7 @@
 # Projects
 
+This page briefly shows works done by me.
+
 ### Machine Learning and Pattern Recognition
 
 **2016, Shape Reconigition** C# / DirectDraw

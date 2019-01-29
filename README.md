@@ -1,11 +1,31 @@
 # Projects
 
+### Machine Learning and Pattern Recognition
+
+**2016, Shape Reconigition** C# / DirectDraw
+* Based on shape context (referenced to related paper)
+* Actually I want make a game, where player could draw their desired weapons.
+
+**2017.4, Sketch rating system using DCNN** C++ / Caffe
+* Give you a score about how well you sketched.
+* Network based on AlexNet structure with fine-tuning
+
+**2018, Pokemon Showdown Battle Prediction** Python / tensorflow
+* Predicts Pokemon battle results based on pokemons of 2 players in this battle.
+* https://github.com/linkzeldagg/Pokemon-Showdown-Win-Rate-Prediction
+
+**2018, Machine Learning (Miscellaneous)** Python / tensorflow
+* Works done in Konagaya Lab (my academic supervisor, master degree) at TokyoTech.
+* Mainly focusing on generative neural networks (GANs, VAEs, etc.)
+* Learning common technique & tricks used in neural networks.
+* My research: Find well-behaved, linear representations of motion dynamics (particle simulation data). It should be able to simulate (also predict) the process by some linear (affine) transformation in the latent, representation space, and be able to encode raw particle data (some matrix with arbitrary rows) to latent representations, as well as reconstruct them back to raw data. We also used the duality of simulation process (forward & backward in time <-> linear transformation & the inverse) to improve model stability.
+
 ### Graphics and Games
 
 **2015.11, Dynamic detail population for massive scene rendering.** Ogre / C++
 * Done in a hackathon (within 48 hours)  
 * It's a massive LOD system, populates millions of procedural details based on current view. Can be easily modified by artists.  
-* In the demo, I showed a grassland, free from bird-view to a close view that shows "cell"s on a single grass-blade.
+* In the demo, a grassland was shown, free from bird-view to a close view that shows "cell"s on a single grass-blade.
 * minFPS = 15 @ i7-4700MQ / GTX 780M (only in specific area (a small range at middle), in other range FPS = 60 (VSync))
 * I entered MSRA by this.
 
@@ -96,23 +116,3 @@ With LOD levels:
 
 Reconstructed scene:
 ![FGO](Images/FGO.png)
-
-### Machine Learning and miscellaneous
-
-**2016, Shape Reconigition** C# / DirectDraw
-* Based on shape context (referenced to related paper)
-* Actually I want make a game, where player could draw their desired weapons.
-
-![ShapeContext](Images/ShapeContext.png)
-
-**2017.4, Sketch rating system using DCNN** C++ / Caffe
-* Give you a score about how well you sketched.
-* Network based on AlexNet structure with fine-tuning
-
-**2018, Pokemon Showdown Battle Prediction** Python / tensorflow
-* Predicts Pokemon battle results based on pokemons of 2 players in this battle.
-* https://github.com/linkzeldagg/Pokemon-Showdown-Win-Rate-Prediction
-
-**2018, Machine Learning Miscellaneous** Python / tensorflow
-* So many... (including GANs family, AutoEncoders, 2D & 3D CNNs, different algorithms (e.g. Spectral regularization) etc.)
-* Done in my lab at Tokyo Tech.

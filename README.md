@@ -1,8 +1,12 @@
 # Projects
 
 This page briefly shows works done by me.
+Those work are mostly done by interest and not that formal.
 
 ### Machine Learning and Pattern Recognition
+
+I don't have many projects done & ready to show in Machine Learning, but I do Machine Learning from 2015 and loves it most.  
+I learned many things, done many experiments, but only little of them was "project enough" to be shown here.
 
 **2016, Shape Reconigition** C# / DirectDraw
 * Based on shape context (referenced to related paper)

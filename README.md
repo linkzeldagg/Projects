@@ -19,7 +19,7 @@
 * Mainly focusing on generative neural networks (GANs, VAEs, etc.)
 * Learning common technique & tricks used in neural networks.
 * My research (currently in mid-stage): 
-  * Find well-behaved, linear representations of motion dynamics (particle simulation data). 
+  * Find well-behaved, linear representations of motion dynamics (particle simulation data) via NN. 
   * Simulate (also predict) the process by some linear (affine) transformation in the latent space
   * Able to encode raw particle data (some matrix with arbitrary rows) to latent representations, as well as reconstruct them back to raw data. 
   * Using the duality of simulation process (forward & backward in time <-> linear transformation & the inverse) to improve model stability.

@@ -123,6 +123,7 @@ With LOD levels:
 * Used for prize winning (lottery) program in anime & comic club annual ceremony show
 * (relatively) High quality
 * There are playable demos but it might not be legal to show it...
+* (Chinese contents!) Live at https://betairylia.github.io/
 
 Reconstructed scene:
 ![FGO](Images/FGO.png)

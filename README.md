@@ -6,7 +6,7 @@ Those work are mostly done by interest and not that formal.
 ### Machine Learning and Pattern Recognition
 
 I learned many things, done many experiments, but only little of them was "project enough" to be shown here.  
-I do Machine Learning from 2015 and love it at most.
+I do Machine Learning from 2015 and sticked to it.
 
 **2016, Shape Reconigition** C# / DirectDraw
 * Based on shape context (referenced to related paper)

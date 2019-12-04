@@ -1,6 +1,6 @@
 # Projects
 
-This page briefly shows works done by me.  
+This page briefly shows works done by myself with my friends.  
 Those work are mostly done by interest and not that formal.
 
 ### Machine Learning and Pattern Recognition
